@@ -63,7 +63,7 @@ GET /image?filename=product1.jpg HTTP/1.1
 ### 4. Vérifier la réponse
 
 Tu dois voir :
-````
+
 
 root\:x:0:0\:root:/root:/bin/bash
 daemon\:x:1:1\:daemon:/usr/sbin:/usr/sbin/nologin
@@ -98,5 +98,4 @@ Ajoute ici une capture d’écran de Burp Suite montrant la requête modifiée e
 | `Double encoding`      | `%252f` = `%2f` après un premier décodage |
 | `Bypass technique`     | Utilisation de l'encodage multiple pour contourner les filtres |
 
----
 
