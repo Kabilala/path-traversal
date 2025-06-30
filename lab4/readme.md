@@ -73,7 +73,6 @@ daemon\:x:1:1\:daemon:/usr/sbin:/usr/sbin/nologin
 
 ✅ Cela confirme que l’exploitation a réussi.
 
----
 
 ## 📸 Screenshot 
 
@@ -81,7 +80,7 @@ Ajoute ici une capture d’écran de Burp Suite montrant la requête modifiée e
 
 ![Path-Traversal](https://github.com/Kabilala/path-traversal/blob/main/lab4/lab4.png)
 
----
+
 
 ## 🛡️ Contremesures recommandées
 
