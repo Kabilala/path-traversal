@@ -69,7 +69,7 @@ root\:x:0:0\:root:/root:/bin/bash
 daemon\:x:1:1\:daemon:/usr/sbin:/usr/sbin/nologin
 ...
 
-```
+
 
 ✅ Cela confirme que l’exploitation a réussi.
 
@@ -89,7 +89,6 @@ Ajoute ici une capture d’écran de Burp Suite montrant la requête modifiée e
 - Utiliser une **liste blanche stricte** des fichiers accessibles
 - Interdire **toute forme de chemin relatif ou absolu** passé par l’utilisateur
 
----
 
 ## 🎓 Concepts clés
 
@@ -101,10 +100,3 @@ Ajoute ici une capture d’écran de Burp Suite montrant la requête modifiée e
 
 ---
 
-## 🔗 Références
-
-- [📚 Path Traversal - PortSwigger Academy](https://portswigger.net/web-security/file-path-traversal)
-- [🔐 OWASP Directory Traversal Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Path_Traversal_Cheat_Sheet.html)
-- [📘 URL Encoding Reference](https://www.w3schools.com/tags/ref_urlencode.asp)
-
----
