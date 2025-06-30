@@ -50,7 +50,7 @@ Sans validation correcte, il est possible d’accéder à des fichiers système 
 
 *Insérer ici une capture d'écran démontrant l’exploitation réussie de la vulnérabilité.*
 
-![Exemple d’exploitation Path Traversal](www.githup/kabilala/path-traversale/lab1/lab1.png)
+![Path-Traversal](https://github.com/Kabilala/path-traversal/blob/main/lab1/lab1.png)
 
 ---
 
@@ -78,9 +78,3 @@ Kaouthar Belkebir | Junior Penetration Tester | Cybersecurity Enthusiast
 
 ---
 
-**Let’s hack it, but ethically! 🔥**
-```
-
----
-
-Tu me dis si tu veux que je te fasse un template PowerPoint ou un post LinkedIn basé là-dessus !
